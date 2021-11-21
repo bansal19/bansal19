@@ -2,7 +2,7 @@
 
 ~~I'm a 4th year Computer Science student graduating in June 2021 from the University of Toronto.~~
 
-I'm a developer at AWS. I work on [AWS Cloud Map](https://aws.amazon.com/cloud-map/). 
+I work on [AWS Cloud Map](https://aws.amazon.com/cloud-map/). 
 
 This is what I'm upto:
 
