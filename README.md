@@ -1,4 +1,4 @@
-# 👋!
+# 👋
 
 I'm currently building something new in the climate space.
 
