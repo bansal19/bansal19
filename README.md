@@ -1,6 +1,6 @@
 # 👋
 
-I'm currently building something new in the climate space.
+I'm currently a tech partner at [Crucible Labs](https://cruciblelabs.com/).
 
 Notable highlights:
 - I worked on [AWS Cloud Map](https://aws.amazon.com/cloud-map/) and left in late 2023. Most of my time there was spent on scaling the Data Plane of Cloud Map, where we serve [DiscoverInstances requests](https://docs.aws.amazon.com/cloud-map/latest/api/API_DiscoverInstances.html).
